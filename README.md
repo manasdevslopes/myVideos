@@ -1,7 +1,6 @@
 # myVideos
-
-
 App Screenshots : )
+
 ![screen shot 1940-07-20 at 9 27 53 pm](https://user-images.githubusercontent.com/43421834/46880740-1c817680-ce67-11e8-9852-6cf936500792.png)
 ![screen shot 1940-07-20 at 9 28 05 pm](https://user-images.githubusercontent.com/43421834/46880741-1c817680-ce67-11e8-9805-56ee424b550f.png)
 ![screen shot 1940-07-20 at 9 28 14 pm](https://user-images.githubusercontent.com/43421834/46880742-1d1a0d00-ce67-11e8-8f6e-62abd214c854.png)
